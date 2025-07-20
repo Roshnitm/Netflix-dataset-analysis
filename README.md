@@ -25,13 +25,13 @@ This notebook uses the **Netflix Movies and TV Shows dataset** available on [Kag
 - Description
 
 ### ▶️ Movies vs TV Shows
-![Movies vs TV Shows](images/preview1.png)
+![Movies vs TV Shows](images/preview3.png)
 
-### 🌍 Country-wise Content Distribution
-![Country-wise Content](images/preview2.png)
+### 📈 Monthly Netflix Content forecasting
+![Monthly Netflix Content forecasting](images/preview2.png)
 
 ### 🎭 Genre Distribution
-![Genre Distribution](images/preview3.png)
+![Genre Distribution](images/preview1.png)
 
 ## 🔧 Requirements
 
